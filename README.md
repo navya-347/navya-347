@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Navya
 
-<!--
-**navya-347/navya-347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📊 Skilled in SQL, Python, Power BI  
+🤖 Interested in AI & Machine Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- SQL
+- Power BI
+- Excel
+- TensorFlow
+- MongoDB
+- FastAPI
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Sales Dashboard
+Power BI dashboard for business insights.
+
+### 🤖 DermaAid AI
+AI-powered skin disease prediction system.
+
+### 📈 Customer Churn Prediction
+Machine learning project using Python.
+
+---
+
+## 🌱 Currently Learning
+- Advanced SQL
+- Data Visualization
+- Data Analytics
+
+---
+
+## 📫 Connect With Me
+- LinkedIn
+- Kaggle
