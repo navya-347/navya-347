@@ -36,6 +36,7 @@ Advanced SQL · Tableau · dbt · Apache Spark · Analytics Engineering
 
 - [LinkedIn](https://www.linkedin.com/in/navya-nikhitha-naguru-a0140123a)
 - [Kaggle](https://www.kaggle.com/nagurunavyanikhitha)
-- [Pinterest - Neural Notes AI](https://in.pinterest.com/neuralnotes_ai/)
+- [Pinterest - Neural Notes AI](https://in.pinterest.com/neuralnotes_ai/) 
+🌐 Portfolio — navyanikhitha.netlify.app
 
 ⭐ If you find my projects useful, give them a star!
