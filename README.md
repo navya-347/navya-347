@@ -59,6 +59,7 @@ Now I bring that same **scientific mindset to data** — treating every dataset 
 
 | Project | What I Did | Tools | Link |
 |---|---|---|---|
+| 🤖 **Jarvis — Voice Data Analyst** | AI voice assistant that analyzes CSV data and auto-generates charts using natural language | Python · Groq · gTTS · Pandas · Matplotlib | [GitHub](https://github.com/navya-347/jarvis-analyst) |
 | 🎬 **Netflix Data Analysis** | EDA on Netflix content — trends, genres, regional patterns | Python · Pandas · Seaborn · Matplotlib | [GitHub](https://github.com/navya-347/netflix-data-analysis) |
 | 🏭 **Supply Chain Management System** | Full-stack system — inventory tracking, JWT auth, real-time MongoDB | FastAPI · MongoDB · JWT · JavaScript | [GitHub](https://github.com/navya-347) |
 | 🌌 **Solar Wind Effect Prediction** | ML models for space weather prediction @ NARL (Published!) | Python · ML · NumPy | [GitHub](https://github.com/navya-347) |
