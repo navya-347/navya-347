@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/navya-nikhitha-naguru-a0140123a/)
 [![GitHub](https://img.shields.io/badge/GitHub-navya--347-181717?style=for-the-badge&logo=github)](https://github.com/navya-347)
 [![Pinterest](https://img.shields.io/badge/Pinterest-neuralnotes__ai-E60023?style=for-the-badge&logo=pinterest)](https://in.pinterest.com/neuralnotes_ai/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Neural_Notes_AI-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://neuralnotes-ai.hashnode.dev)
 
 </div>
 
@@ -26,6 +27,7 @@ Now I bring that same **scientific mindset to data** — treating every dataset 
 - 📄 **Publications:** 2 research papers published
 - 📍 **Location:** Hyderabad, India · Remote-first
 - 🚀 **Status:** Actively looking for Data Analyst roles
+- 📝 **Blog:** [neuralnotes-ai.hashnode.dev](https://neuralnotes-ai.hashnode.dev) — Python, SQL, Pandas & Data Science weekly
 
 ---
 
@@ -63,7 +65,7 @@ Now I bring that same **scientific mindset to data** — treating every dataset 
 | 🎬 **Netflix Data Analysis** | EDA on Netflix content — trends, genres, regional patterns | Python · Pandas · Seaborn · Matplotlib | [GitHub](https://github.com/navya-347/netflix-data-analysis) |
 | 🏭 **Supply Chain Management System** | Full-stack system — inventory tracking, JWT auth, real-time MongoDB | FastAPI · MongoDB · JWT · JavaScript | [GitHub](https://github.com/navya-347) |
 | 🌌 **Solar Wind Effect Prediction** | ML models for space weather prediction @ NARL (Published!) | Python · ML · NumPy | [GitHub](https://github.com/navya-347) |
-| 🩺 **Derma Aid — AI Skin Detection** | CNN classifier for skin disease detection + severity scoring | CNN · FastAPI · MongoDB | [GitHub](https://github.com/navya-347) |
+| 🩺 **Derma Health — AI Skin Detection** | CNN classifier for skin disease detection + severity scoring | CNN · FastAPI · MongoDB | [GitHub](https://github.com/navya-347) |
 | 💉 **Gestational Diabetes Prediction** | ML classifier for maternal health risk (In Progress) | Python · ML · Pandas | [GitHub](https://github.com/navya-347) |
 
 ---
@@ -118,12 +120,15 @@ Tableau & Power BI — Advanced Dashboards
 
 ---
 
-## 🌍 Beyond the Code
+## 📝 Latest Blog Posts — Neural Notes AI
 
-- 📓 Writing journals — storytelling with words and data
-- 🦢 Origami — patience and precision (very data analyst!)
-- 📌 Pinterest — [neuralnotes_ai](https://in.pinterest.com/neuralnotes_ai/) — data viz & AI inspiration boards
-- ✍️ Freelance creative writer — *"Data without storytelling is just numbers"*
+<!-- Replace these with your actual blog URLs after publishing -->
+- [10 Pandas Functions Every Data Analyst Uses Daily](https://neuralnotes-ai.hashnode.dev)
+- [10 SQL Queries Every Data Analyst Must Know](https://neuralnotes-ai.hashnode.dev)
+- [7 Free Datasets Every Data Science Beginner Should Bookmark](https://neuralnotes-ai.hashnode.dev)
+- [Python String Methods Cheat Sheet — Every Data Analyst Needs This](https://neuralnotes-ai.hashnode.dev)
+
+➡️ [Read all posts at neuralnotes-ai.hashnode.dev](https://neuralnotes-ai.hashnode.dev)
 
 ---
 
@@ -131,13 +136,26 @@ Tableau & Power BI — Advanced Dashboards
 
 <div align="center">
 
-![Navya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navya-347&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=navya-347&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Navya's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navya-347&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navya-347&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navya-347&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=navya-347&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+---
+
+## 🌍 Beyond the Code
+
+- 📓 Writing journals — storytelling with words and data
+- 🦢 Origami — patience and precision (very data analyst!)
+- 📌 Pinterest — [neuralnotes_ai](https://in.pinterest.com/neuralnotes_ai/) — data viz & AI inspiration boards
+- ✍️ Freelance creative writer — *"Data without storytelling is just numbers"*
 
 ---
 
@@ -151,6 +169,7 @@ Tableau & Power BI — Advanced Dashboards
 | 💼 LinkedIn | [navya-nikhitha-naguru](https://www.linkedin.com/in/navya-nikhitha-naguru-a0140123a/) |
 | 📧 Email | navyanikhithanaguru@gmail.com |
 | 📌 Pinterest | [neuralnotes_ai](https://in.pinterest.com/neuralnotes_ai/) |
+| 📝 Hashnode | [neuralnotes-ai.hashnode.dev](https://neuralnotes-ai.hashnode.dev) |
 | 💻 GitHub | [navya-347](https://github.com/navya-347) |
 
 </div>
