@@ -151,6 +151,7 @@ Tableau & Power BI — Advanced Dashboards
 | 💼 LinkedIn | [navya-nikhitha-naguru](https://www.linkedin.com/in/navya-nikhitha-naguru-a0140123a/) |
 | 📧 Email | navyanikhithanaguru@gmail.com |
 | 📌 Pinterest | [neuralnotes_ai](https://in.pinterest.com/neuralnotes_ai/) |
+[![Hashnode](https://img.shields.io/badge/Hashnode-Neural_Notes_AI-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://neuralnotes-ai.hashnode.dev)
 | 💻 GitHub | [navya-347](https://github.com/navya-347) |
 
 </div>
