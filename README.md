@@ -1,5 +1,3 @@
- 
-
 # Hi, I'm Navya Nikhitha 👋
 
 <div align="center">
@@ -29,7 +27,6 @@ Now I bring that same **scientific mindset to data** — treating every dataset 
 - 📄 **Publications:** 2 research papers published
 - 📍 **Location:** Hyderabad, India · Remote-first
 - 🚀 **Status:** Actively looking for Data Analyst roles
-- 📝 **Blog:** [neuralnotes-ai.hashnode.dev](https://neuralnotes-ai.hashnode.dev) — Python, SQL, Pandas & Data Science weekly
 
 ---
 
@@ -65,10 +62,10 @@ Now I bring that same **scientific mindset to data** — treating every dataset 
 |---|---|---|---|
 | 🤖 **Jarvis — Voice Data Analyst** | AI voice assistant that analyzes CSV data and auto-generates charts using natural language | Python · Groq · gTTS · Pandas · Matplotlib | [GitHub](https://github.com/navya-347/jarvis-analyst) |
 | 🎬 **Netflix Data Analysis** | EDA on Netflix content — trends, genres, regional patterns | Python · Pandas · Seaborn · Matplotlib | [GitHub](https://github.com/navya-347/netflix-data-analysis) |
-| 🏭 **Supply Chain Management System** | Full-stack system — inventory tracking, JWT auth, real-time MongoDB | FastAPI · MongoDB · JWT · JavaScript | [GitHub](https://github.com/navya-347) |
-| 🌌 **Solar Wind Effect Prediction** | ML models for space weather prediction @ NARL (Published!) | Python · ML · NumPy | [GitHub](https://github.com/navya-347) |
-| 🩺 **Derma Health — AI Skin Detection** | CNN classifier for skin disease detection + severity scoring | CNN · FastAPI · MongoDB | [GitHub](https://github.com/navya-347) |
-| 💉 **Gestational Diabetes Prediction** | ML classifier for maternal health risk (In Progress) | Python · ML · Pandas | [GitHub](https://github.com/navya-347) |
+| 🏭 **Supply Chain Management System** | Full-stack system — inventory tracking, JWT auth, real-time MongoDB | FastAPI · MongoDB · JWT · JavaScript | *repo pending* |
+| 🌌 **Solar Wind Effect Prediction** | ML models for space weather prediction @ NARL (Published!) | Python · ML · NumPy | *repo pending* |
+| 🩺 **Derma Health — AI Skin Detection** | CNN classifier for skin disease detection + severity scoring | CNN · FastAPI · MongoDB | *repo pending* |
+| 💉 **Gestational Diabetes Prediction** | ML classifier for maternal health risk (In Progress) | Python · ML · Pandas | *repo pending* |
 
 ---
 
@@ -122,18 +119,6 @@ Tableau & Power BI — Advanced Dashboards
 
 ---
 
-## 📝 Latest Blog Posts — Neural Notes AI
-
-<!-- Replace these with your actual blog URLs after publishing -->
-- [10 Pandas Functions Every Data Analyst Uses Daily](https://neuralnotes-ai.hashnode.dev)
-- [10 SQL Queries Every Data Analyst Must Know](https://neuralnotes-ai.hashnode.dev)
-- [7 Free Datasets Every Data Science Beginner Should Bookmark](https://neuralnotes-ai.hashnode.dev)
-- [Python String Methods Cheat Sheet — Every Data Analyst Needs This](https://neuralnotes-ai.hashnode.dev)
-
-➡️ [Read all posts at neuralnotes-ai.hashnode.dev](https://neuralnotes-ai.hashnode.dev)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -169,7 +154,6 @@ Tableau & Power BI — Advanced Dashboards
 |---|---|
 | 🌐 Portfolio | [navyanikhitha.netlify.app](https://navyanikhitha.netlify.app) |
 | 💼 LinkedIn | [navya-nikhitha-naguru](https://www.linkedin.com/in/navya-nikhitha-naguru-a0140123a/) |
-| 📧 Email | navyanikhithanaguru@gmail.com |
 | 📌 Pinterest | [neuralnotes_ai](https://in.pinterest.com/neuralnotes_ai/) |
 | 📝 Hashnode | [neuralnotes-ai.hashnode.dev](https://neuralnotes-ai.hashnode.dev) |
 | 💻 GitHub | [navya-347](https://github.com/navya-347) |
